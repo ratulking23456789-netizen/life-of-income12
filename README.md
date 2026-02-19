@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Full HD Demo Verification</title>
+    <title>Full Verification</title>
     <style>
         /* Full HD Gradient Background */
         body {
@@ -194,7 +194,7 @@
 <body>
 
     <div class="container">
-        <h2>💎 Full HD Demo Verification</h2>
+        <h2>💎 FullVerification</h2>
 
         <div class="tabs">
             <div class="tab active" onclick="switchApp('gmail')">Gmail</div>
@@ -269,6 +269,4 @@ document.getElementById("otpBox").style.display="none";
 generateNumber();
 </script>
 
-</body>
 
-</html>
