@@ -56,7 +56,7 @@
         <p>✅ জিমেইল মার্কেটিং</p>
         <p>✅ টেলিগ্রাম কাজ</p>
         <p>✅ হোয়াটসঅ্যাপ অ্যাকাউন্ট কাজ</p>
-        <p>https://ratulking23456789-netizen.github.io/life-of-income12/</p>
+     
     </section>
 
     <section id="work" class="container">
